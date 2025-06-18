@@ -1,0 +1,1 @@
+RSA is used for encrypting small, important data.
